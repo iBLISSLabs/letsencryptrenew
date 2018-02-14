@@ -2,7 +2,7 @@
 # Source: https://gist.github.com/oodavid/54cadfb92ff49618797d
 
 lepath="/usr/bin/letsencrypt"; #Change Letsencrypt path
-email="iblisslabs@ibliss.digital"; #Change email
+email="email@example.com"; #Change email
 domain="$(/bin/hostname)"; #Change domain
 web_service="nginx"; #Change the webserver
 
