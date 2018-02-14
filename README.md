@@ -1,5 +1,7 @@
 Script for renew the letsencrypt's certs
 
+#Tested on Ubuntu server 16.04
+
 git clone https://github.com/iBLISSLabs/letsencryptrenew.git
 
 chmod +x letsencryptrenew/certautorenew.sh
